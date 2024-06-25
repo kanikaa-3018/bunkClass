@@ -63,4 +63,15 @@ body{
     margin-top: 20px;
     padding: 10px;
     background: #973131;
+    color: white;
+    outline: 0;
+    border: 0;
+    border-radius: 10px;
+    width: 100%;
+    font-size: medium;
+}
+
+.btns-percent button.active{
+    background: #CA8787;
+    color: black;
 }
